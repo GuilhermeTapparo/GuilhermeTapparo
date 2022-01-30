@@ -3,7 +3,7 @@
 **I'm just a backend developer, who sometimes struggles to align a div on the frontend rsrs**
 
 
-My name is Guilherme and I've been a software developer for about four year.
+My name is Guilherme and I've been a software developer for about four years.
 
 :wrench: I work mainly with C# and Typescript. But I get by with react and python too. :hammer:
 
