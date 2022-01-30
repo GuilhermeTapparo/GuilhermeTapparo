@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi dev, I'm Guilherme Tápparo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**GuilhermeTapparo/GuilhermeTapparo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm just a backend developer, who sometimes struggles to align a div on the frontend rsrs**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi! My name is Guilherme and I've been a software developer for about four year.
+
+:wrench: I work mainly with C# and Typescript. But I get by with react and python too. :hammer:
+
+The main projects I currently work on are related to the integration of ERP systems with marketplaces (ecommerce), user authentication and starting in the development of products for financial investments.
+
+If I can help you, just call me. :bulb:
+
+:necktie: [Linkedin](www.linkedin.com/in/guilhermetapparo)<br>
+:mailbox_with_mail: <GuilhermeTapparo1@gmail.com>
+
