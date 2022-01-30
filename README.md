@@ -11,6 +11,6 @@ The main projects I currently work on are related to the integration of ERP syst
 
 If I can help you, just call me. :bulb:
 
-:necktie: [Linkedin](www.linkedin.com/in/guilhermetapparo)<br>
+:necktie: [Linkedin](https://www.linkedin.com/in/guilhermetapparo)<br>
 :mailbox_with_mail: <GuilhermeTapparo1@gmail.com>
 
